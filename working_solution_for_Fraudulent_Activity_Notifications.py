@@ -1,4 +1,4 @@
-''' I got this coge in the following youtube video. Watch the full video for better understanding of the problem 
+''' I got this code in the following youtube video. Watch the full video for better understanding of the problem 
     and how it is optimized.
   https://youtu.be/46V6tnxy_Vs  
   
